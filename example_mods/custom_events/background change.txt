@@ -1,0 +1,3 @@
+"Changes" the background, original stage is still there but it just adds a new sprite on top of it.
+Value1: the sprite to add
+Value2: X and Y positions, so for example you would put: 0, 0 for the top left corner, you may need to keep testing to get it right.

@@ -1,0 +1,1 @@
+Does something ONLY if you're in story mode.

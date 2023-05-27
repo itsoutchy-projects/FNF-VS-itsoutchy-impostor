@@ -1,0 +1,26 @@
+{
+	"song": {
+		"events": [
+			[
+				20400,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"itsoutchy parasite"
+					]
+				]
+			],
+			[
+				146400,
+				[
+					[
+						"finaleEndWeek",
+						"",
+						""
+					]
+				]
+			]
+		]
+	}
+}

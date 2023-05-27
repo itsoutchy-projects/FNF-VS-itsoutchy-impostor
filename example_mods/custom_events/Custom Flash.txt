@@ -1,0 +1,8 @@
+Value 1: duration
+Value 2: color
+
+1=white
+2=red
+3=blue
+4=green
+5=yellow and 6 is dark:/
