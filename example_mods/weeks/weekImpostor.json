@@ -1,0 +1,68 @@
+{
+	"storyName": "???",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "black",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"defeat",
+			"itsoutchy",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"unknown-suffering",
+			"itsoutchy",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"sussus-nuzzus",
+			"itsoutchy",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"reactor",
+			"itsoutchy-pixel",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"finale",
+			"itsoutchy",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
